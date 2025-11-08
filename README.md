@@ -19,6 +19,7 @@ The dashboard provides insights to support **marketing decisions, product positi
 ## 📂 Data Source
 Kaggle Dataset: **Nykaa Product Reviews Dataset**  
 🔗(https://www.kaggle.com/datasets/susant4learning/nykaacosmeticsproductsreview2021)
+
 *Data used for learning & portfolio demonstration purposes.*
 
 ---
@@ -27,6 +28,7 @@ Kaggle Dataset: **Nykaa Product Reviews Dataset**
 
 ### 🏢 Business Problem
 Nykaa has a wide range of products, but understanding **which products are preferred**, how **price affects customer rating**, and which **brands drive engagement** is crucial for business growth.
+
 
 ### 🎯 Goal of the Dashboard
 - Identify **top-performing products & brands**
@@ -52,19 +54,10 @@ Nykaa has a wide range of products, but understanding **which products are prefe
 
 ---
 
-## 🖼 Dashboard Screenshots
+## 🖼 Screenshots / Demo
 
-### 🔹 Full Dashboard Overview
-![Dashboard Overview](C:\Users\HP\OneDrive\Pictures\Nykaa images\Screenshot of dashboard .png)
-
-### 🔹 Sales by Category
-![Sales by Category](C:\Users\HP\OneDrive\Pictures\Nykaa images\Screenshot of table view .png)
-
-### 🔹 Top 5 Products by Reviews
-![Top 5 Reviews](C:\Users\HP\OneDrive\Pictures\Nykaa images\Screenshot of top 5 reviews .png)
-
-### 🔹 Top 5 Products by Estimated Sales
-![Top 5 Sales](C:\Users\HP\OneDrive\Pictures\Nykaa images\Screenshot of total estimated sales .png)
+### 🔹 Show what the dashboard looks like.                    
+(https://github.com/mayuripurkayast-portfolio/nykaa-beauty-reviews-dashboard/blob/main/nykaa_dashboard_overview.png)
 
 ---
 
@@ -78,7 +71,9 @@ This dashboard helps identify:
 ---
 
 ## 📬 Contact
+
 **LinkedIn:** https://www.linkedin.com/in/mayuripurkayastofficial
+
 **Email:** mayuripurkayasth751@gmail.com
 
 ---
