@@ -42,8 +42,8 @@ Nykaa has a wide range of products, but understanding **which products are prefe
 | **KPIs (Avg Rating, Total Reviews, Estimated Sales)** | Overall performance at a glance. |
 | **Sales by Brand** | Which brands generate more engagement. |
 | **Sales by Price Range** | How price influences customer interest. |
-| **Sales by Product Category (Heatmap)** | Which product categories dominate demand. |
-| **Top 5 Products by Reviews/Sales** | Identifies high-impact “hero products”. |
+| **Sales by Product Category (Table)** | Which product categories dominate demand. |
+| **Top 5 Product Name by Reviews/Sales** | Identifies high-impact “hero products”. |
 
 ### 💡 Business Insights Gained
 - **Nykaa’s in-house products** show strong brand trust and high customer engagement.
